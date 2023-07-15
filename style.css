@@ -1,0 +1,119 @@
+.custom-navbar .nav-link {
+    color: black; /* Defina a cor do link desejada */
+}
+
+.nav-item {
+    margin-right: 15px; /* Defina o espaçamento desejado entre os links */
+}
+
+.custom-navbar .navbar-nav {
+    display: flex;
+    align-items: center;
+  }
+  
+.custom-navbar .form-inline {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+  }
+
+  .icon-1 svg,
+  .icon-2 svg{
+    width: 20px; /* Largura dos ícones */
+    height: 20px; /* Altura dos ícones */
+    margin-right: 36px; /* Adiciona um espaçamento à direita entre os ícones */
+    color: black;
+}
+
+.custom-navbar .btn{
+    margin-right: 55px;
+    color: white;
+    background-color: black;
+}    
+
+.custom-navbar .form-inline .form-control{
+    margin-right: 5px;
+  }
+
+
+  .border-1 {
+    display: inline-block;
+    border: 2px solid black; /* Estilo da borda: 4px de largura e cor preta */
+    padding: 20px; /* Espaçamento interno do texto em relação à borda */
+    border-radius: 10px; /* Arredondamento dos cantos da borda */
+    margin-top: 20px; /* Margem superior para afastar a seção do navbar */
+    margin-bottom: 40px; /* Margem inferior para criar um espaçamento */
+    background-color: black;
+    margin-left: 20px;
+    color: white;
+    width: 140px;
+  }
+
+  .border-2 {
+    display: inline-block;
+    border: 2px solid black; /* Estilo da borda: 4px de largura e cor preta */
+    padding: 20px; /* Espaçamento interno do texto em relação à borda */
+    border-radius: 10px; /* Arredondamento dos cantos da borda */
+    margin-top: 20px; /* Margem superior para afastar a seção do navbar */
+    margin-bottom: 40px; /* Margem inferior para criar um espaçamento */
+    background-color: black;
+    margin-left: 20px;
+    color: white;
+    width: 140px;
+  }
+
+  .text {
+    text-align: left; /* Alinha o texto ao centro */
+    margin-top: 60px;
+    padding: 20px;
+  }
+
+  .text h1{
+    font-size: 25px;
+  }
+
+
+  .roupas{
+    height: 230px;
+    width: 200px;
+    padding:20px;
+  }
+
+  .roupas-text{
+    margin-left: 14px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+  }
+
+  .item {
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+
+  .border{
+    display: inline-block;
+    border: 2px solid black; /* Estilo da borda: 4px de largura e cor preta */
+    padding: 15px; /* Espaçamento interno do texto em relação à borda */
+    border-radius: 12px; /* Arredondamento dos cantos da borda */
+    margin-top: 20px; /* Margem superior para afastar a seção do navbar */
+    margin-bottom: 40px; /* Margem inferior para criar um espaçamento */
+    background-color: black;
+    margin-left: 70px;
+    color: white;
+    width: 115px;
+  }
+  
+
+  
+
+  
+  
+
+ 
+
+  
+  
+
+  
